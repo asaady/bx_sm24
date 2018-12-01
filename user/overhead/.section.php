@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Накладные";
+$arDirProperties = Array(
+
+);
+?>

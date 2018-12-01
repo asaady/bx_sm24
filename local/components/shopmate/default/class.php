@@ -1,0 +1,1 @@
+<? class CDfltComponent extends \Yadadya\Shopmate\Components\Component {} ?>

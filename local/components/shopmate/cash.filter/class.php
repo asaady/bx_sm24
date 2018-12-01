@@ -1,0 +1,1 @@
+<? class CCashFilterComponent extends \Yadadya\Shopmate\Components\Component {} ?>

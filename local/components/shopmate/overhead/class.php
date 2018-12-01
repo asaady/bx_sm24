@@ -1,0 +1,1 @@
+<? class COverheadComponent extends \Yadadya\Shopmate\Components\Component {} ?>

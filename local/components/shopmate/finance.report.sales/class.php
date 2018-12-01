@@ -1,0 +1,1 @@
+<? class CFinanceReportSalesComponent extends \Yadadya\Shopmate\Components\Component {} ?>

@@ -1,0 +1,1 @@
+<? class CPricelistProductComponent extends \Yadadya\Shopmate\Components\Component {} ?>

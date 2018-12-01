@@ -1,0 +1,1 @@
+<? class CContractorDetailComponent extends \Yadadya\Shopmate\Components\Component {} ?>

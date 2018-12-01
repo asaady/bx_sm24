@@ -1,0 +1,4 @@
+<conf>
+	<site>shopmate.yadadya.net</site>
+	<shop>0</shop>
+</conf>

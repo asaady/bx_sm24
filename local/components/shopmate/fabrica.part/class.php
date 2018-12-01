@@ -1,0 +1,1 @@
+<? class CFabricaPartComponent extends \Yadadya\Shopmate\Components\Component {} ?>

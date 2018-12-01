@@ -1,0 +1,1 @@
+<? class COverheadFilterComponent extends \Yadadya\Shopmate\Components\Component {} ?>

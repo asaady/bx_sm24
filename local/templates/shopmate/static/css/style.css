@@ -1,0 +1,169 @@
+.width50 {
+	width: 50px;
+}
+
+.width100 {
+	width: 100px;
+}
+
+.nopadding-left {
+    padding-left: 0;
+}
+
+html {
+	background-color: #e8e8ff;
+}
+body > section > .mainwrapper {
+	padding-top: 60px;
+	position: inherit;
+}
+body > section > .mainwrapper > .leftpanel {
+	min-height: 100%;
+	top: auto;
+	position: fixed;
+}
+label {
+	min-width: 15px;
+}
+.headerwrapper {
+	z-index: 990;
+}
+
+.profile-thumb {
+	width: 50px;
+	height: 50px;
+	background: url("../images/photos/profile.png") center top no-repeat;
+	background-size: 50px 50px;
+}
+
+.select2-container {
+	min-width: 300px;
+}
+.form-horizontal .select2-container, .cmpfilter .select2-container{
+	min-width: 0;
+}
+.select2-selection__rendered {
+	display: inline-flex;
+}
+.select2-selection
+{
+	height: auto;
+	padding: 4.5px;
+}
+.select2-selection__choice
+{
+	max-width: 80%;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+.select2-search--inline
+{
+	max-width: 15%;
+}
+.btn.btn-bordered:hover, .btn.btn-bordered:focus, .btn.btn-bordered:active, .btn.btn-bordered.active
+{
+	color: #fff;
+	background-color: #90a4ae !important;
+}
+
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control
+{
+	border: none;
+	background: none;
+}
+select.form-control[disabled], select.form-control[readonly], fieldset[disabled] select.form-control
+{
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	margin-right: -25px;
+}
+
+.cash_test.glyphicon-ok:hover:before{content:"\e014"}
+.cash_test.glyphicon-remove:hover:before{content:"\e013"}
+
+.headerwrapper .header-right .modal-dialog.modal-lg{
+	top: 300px;
+}
+
+.headerwrapper .header-right .lead a{
+	color: #eaedf1;
+}
+
+.headerwrapper .pull-right{
+	float: right !important;
+	/*float: left !important;
+	margin-left: 20px;
+	width: 100%;*/
+}
+.headerwrapper .notify__panel{
+	float: right !important;
+	margin-left: 20px;
+}
+.row.btn-list #totalcomment{
+	width: 400px;
+    margin-left: 9px;
+    margin-bottom: 5px;
+}
+
+.media-left, .media-right, .profile-left .media-body{
+	max-width: 130px;
+}
+.media-left, .media-right, .media-body select{
+	max-width: 130px;
+}
+/*.leftpanel .profile-left{
+	height: 105px;
+}*/
+
+.headerwrapper .header-right .btn-group {
+	margin: 0 15px 0 0;
+}
+
+.headerwrapper .header-right .btn-group .dropdown-menu li a {
+	font-size: unset;
+	padding: unset;
+}
+
+.leftpanel .nav {
+    overflow-y: auto;
+    position: fixed;
+    height: 75%;
+    width: 230px;
+}
+
+.leftpanel .nav .active .children{
+	border-bottom: none;
+}
+.leftpanel .nav .children li.active a{
+	background-color: unset;
+}
+.leftpanel .nav .children li.active a:hover{
+	background-color: #4b567e;
+}
+.leftpanel .nav li.active > a, 
+.leftpanel .nav li.active > a:hover {
+    background-color: #394263 !important;
+    color: #fff;
+}
+
+.fabrica_form table td[class*="col-"], 
+.fabrica_form table th[class*="col-"] {
+	position: static;
+	display: table-cell;
+	float: left;
+	line-height: 9px;
+}
+
+.input-group .form-control.select2-hidden-accessible {
+	position: absolute;
+}
+
+.fabrica_form table td[class*="col-"], .fabrica_form table th[class*="col-"] {
+    line-height: unset;
+}
+
+.flotGraph {
+    height: 200px;
+}

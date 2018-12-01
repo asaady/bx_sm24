@@ -1,0 +1,39 @@
+# IDE and SCM trash
+.idea/
+.mc/
+.settings/
+.subversion/
+.buildpath
+.classpath
+.cproject
+.loadpath
+.metadata
+.pmt
+.project
+
+# OS trash
+$RECYCLE.BIN/
+.DS_Store
+Desktop.ini
+ehthumbs.db
+Thumbs.db
+
+# CRM core
+robots.txt
+/upload
+/upload/
+/bitrix
+/bitrix/
+/test.php
+test.csv
+test.txt
+/dnc/log.php
+/dnc/report_*
+/dnc/goods_*
+.htaccess
+.tags
+.tags_sorted_by_file
+goods.txt
+log.txt
+phpdoc.xml
+/local/tests/_*

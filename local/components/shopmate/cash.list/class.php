@@ -1,0 +1,1 @@
+<? class CCashListComponent extends \Yadadya\Shopmate\Components\Component {} ?>

@@ -1,0 +1,45 @@
+/* start плавающая панель */
+.mb30.keyboard_block{
+	position: inherit;
+	bottom: 70px;
+	margin-bottom: 11px
+}
+
+.row.btn-list{
+	position: inherit;
+	bottom: 0px;
+	margin-bottom: 11px;
+	margin-right: 15px;
+}
+
+.btn.pull-right.width100p.btn-danger.btn-lg.scanner_detect{
+    width: 220px;
+}
+
+.floated-buttons-wrapper{
+	left: 0;
+    background-color: white;
+    position: fixed;
+    bottom: 0px;
+    height: 165px;
+    width: calc(100% - 270px);
+    margin-left: 250px;
+    padding-left:20px;
+}
+
+.panel-body .mb30.new-check{
+	position: absolute;
+    left: 40%;
+    top: 10px;
+}
+.panel-body .col-lg-4.open-close-shift{
+	top: 15px;
+}
+#priceMirrorBlock{
+	position: fixed;
+    right: 10px;
+    margin-right: 70px;
+    font-size: 55px;
+    bottom: 0px;
+}
+/* end плавающая панель */

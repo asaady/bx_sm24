@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Товарооборот";
+$arDirProperties = Array(
+
+);
+?>

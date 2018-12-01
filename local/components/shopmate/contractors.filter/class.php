@@ -1,0 +1,1 @@
+<? class CContractorFilterComponent extends \Yadadya\Shopmate\Components\Component {} ?>

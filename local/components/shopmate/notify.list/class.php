@@ -1,0 +1,1 @@
+<? class CNotifyListComponent extends \Yadadya\Shopmate\Components\Component {} ?>

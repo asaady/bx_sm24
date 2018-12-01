@@ -1,0 +1,1 @@
+<? class CFinanceMoneyComponent extends \Yadadya\Shopmate\Components\Component {} ?>

@@ -1,0 +1,1 @@
+<? class CInventoryComponent extends \Yadadya\Shopmate\Components\Component {} ?>

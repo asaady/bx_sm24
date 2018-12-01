@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Инвентаризация";
+$arDirProperties = Array(
+
+);
+?>

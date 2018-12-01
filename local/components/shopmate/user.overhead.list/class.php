@@ -1,0 +1,1 @@
+<? class CUserOverheadListComponent extends \Yadadya\Shopmate\Components\Component {} ?>

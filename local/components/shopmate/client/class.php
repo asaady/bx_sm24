@@ -1,0 +1,1 @@
+<? class CClientComponent extends \Yadadya\Shopmate\Components\Component {} ?>

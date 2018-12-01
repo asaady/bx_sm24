@@ -1,0 +1,1 @@
+<? include(".left.menu_ext.php"); ?>
