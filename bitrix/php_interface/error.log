@@ -1,0 +1,905 @@
+2018-02-01 11:28:57 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-01 11:29:04 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-01 16:02:10 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-01 16:02:17 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-01 16:02:21 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-01 16:02:28 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-07 15:03:33 - Host: shopmate.yadadya.net - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-07 15:03:37 - Host: shopmate.yadadya.net - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-07 15:03:55 - Host: shopmate.yadadya.net - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-07 15:04:04 - Host: shopmate.yadadya.net - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-07 15:04:13 - Host: shopmate.yadadya.net - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-07 15:04:13 - Host: shopmate.yadadya.net - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-07 15:04:14 - Host: shopmate.yadadya.net - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-11 17:35:25 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-11 17:35:32 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-11 17:35:48 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-11 17:35:49 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-11 17:35:54 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-14 10:48:34 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-14 10:48:37 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-14 11:11:07 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-19 01:42:58 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-19 01:45:49 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-19 01:51:11 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-19 01:51:12 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-19 02:19:41 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-19 22:52:05 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-19 22:55:53 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-19 23:22:08 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-19 23:22:46 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-20 14:31:18 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-20 14:43:05 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-20 14:44:12 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-02-20 18:18:54 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-03-01 11:42:46 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-03-01 11:46:56 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-03-01 12:16:17 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Call to undefined method CBitrixComponentTemplate::checkErrors() (0)
+/var/www/site3/local/modules/yadadya.shopmate/lib/components/base.php:399
+----------
+2018-03-05 18:55:50 - Host: shopmate.yadadya.net - FATAL - [ErrorException] E_COMPILE_ERROR
+require_once(): Failed opening required '/var/www/site3/bitrix/php_interface/dbconn.php' (include_path='.:/usr/share/php:/usr/share/pear') (0)
+/var/www/site3/bitrix/modules/main/start.php:165
+----------
+2018-03-05 18:55:50 - Host: lk.storemate.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+require_once(): Failed opening required '/var/www/site3//bitrix/php_interface/dbconn.php' (include_path='.:/usr/share/php:/usr/share/pear') (0)
+/var/www/site3/bitrix/modules/main/start.php:165
+----------
+2018-03-05 18:55:55 - Host: shopmate.yadadya.net - FATAL - [ErrorException] E_COMPILE_ERROR
+require_once(): Failed opening required '/var/www/site3//bitrix/php_interface/dbconn.php' (include_path='.:/usr/share/php:/usr/share/pear') (0)
+/var/www/site3/bitrix/modules/main/start.php:165
+----------
+2018-03-05 18:55:55 - Host: shopmate.yadadya.net - FATAL - [ErrorException] E_COMPILE_ERROR
+require_once(): Failed opening required '/var/www/site3//bitrix/php_interface/dbconn.php' (include_path='.:/usr/share/php:/usr/share/pear') (0)
+/var/www/site3/bitrix/modules/main/start.php:165
+----------
+2018-03-05 19:37:07 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: Connection refused (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog.php:10
+#11: require_once(string)
+	/var/www/site3/bitrix/header.php:1
+#12: require(string)
+	/var/www/site3/dnc/task.php:1
+----------
+2018-03-05 19:37:12 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog.php:10
+#11: require_once(string)
+	/var/www/site3/bitrix/header.php:1
+#12: require(string)
+	/var/www/site3/dnc/task.php:1
+----------
+2018-03-05 19:37:12 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/dnc/index.php:23
+----------
+2018-03-05 19:37:18 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog.php:10
+#11: require_once(string)
+	/var/www/site3/bitrix/header.php:1
+#12: require(string)
+	/var/www/site3/dnc/task.php:1
+----------
+2018-03-05 19:37:23 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog.php:10
+#11: require_once(string)
+	/var/www/site3/bitrix/header.php:1
+#12: require(string)
+	/var/www/site3/dnc/task.php:1
+----------
+2018-03-05 19:37:23 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/dnc/index.php:23
+----------
+2018-03-05 19:37:28 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog.php:10
+#11: require_once(string)
+	/var/www/site3/bitrix/header.php:1
+#12: require(string)
+	/var/www/site3/dnc/task.php:1
+----------
+2018-03-05 19:37:33 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog.php:10
+#11: require_once(string)
+	/var/www/site3/bitrix/header.php:1
+#12: require(string)
+	/var/www/site3/dnc/task.php:1
+----------
+2018-03-05 19:37:33 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/dnc/index.php:23
+----------
+2018-03-05 19:37:38 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog.php:10
+#11: require_once(string)
+	/var/www/site3/bitrix/header.php:1
+#12: require(string)
+	/var/www/site3/dnc/task.php:1
+----------
+2018-03-05 19:37:43 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog.php:10
+#11: require_once(string)
+	/var/www/site3/bitrix/header.php:1
+#12: require(string)
+	/var/www/site3/dnc/task.php:1
+----------
+2018-03-05 19:37:43 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/dnc/index.php:23
+----------
+2018-03-05 19:37:48 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog.php:10
+#11: require_once(string)
+	/var/www/site3/bitrix/header.php:1
+#12: require(string)
+	/var/www/site3/dnc/task.php:1
+----------
+2018-03-05 19:37:54 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog.php:10
+#11: require_once(string)
+	/var/www/site3/bitrix/header.php:1
+#12: require(string)
+	/var/www/site3/dnc/task.php:1
+----------
+2018-03-05 19:37:54 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/dnc/index.php:23
+----------
+2018-03-05 19:37:57 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog.php:10
+#11: require_once(string)
+	/var/www/site3/bitrix/header.php:1
+#12: require(string)
+	/var/www/site3/index.php:4
+----------
+2018-03-05 19:37:59 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog.php:10
+#11: require_once(string)
+	/var/www/site3/bitrix/header.php:1
+#12: require(string)
+	/var/www/site3/dnc/task.php:1
+----------
+2018-03-05 19:38:04 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog.php:10
+#11: require_once(string)
+	/var/www/site3/bitrix/header.php:1
+#12: require(string)
+	/var/www/site3/dnc/task.php:1
+----------
+2018-03-05 19:38:04 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/dnc/index.php:23
+----------
+2018-03-05 19:38:09 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog.php:10
+#11: require_once(string)
+	/var/www/site3/bitrix/header.php:1
+#12: require(string)
+	/var/www/site3/dnc/task.php:1
+----------
+2018-03-05 19:38:14 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog.php:10
+#11: require_once(string)
+	/var/www/site3/bitrix/header.php:1
+#12: require(string)
+	/var/www/site3/dnc/task.php:1
+----------
+2018-03-05 19:38:15 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/dnc/index.php:23
+----------
+2018-03-05 19:38:20 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog.php:10
+#11: require_once(string)
+	/var/www/site3/bitrix/header.php:1
+#12: require(string)
+	/var/www/site3/dnc/task.php:1
+----------
+2018-03-05 19:38:25 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog.php:10
+#11: require_once(string)
+	/var/www/site3/bitrix/header.php:1
+#12: require(string)
+	/var/www/site3/dnc/task.php:1
+----------
+2018-03-05 19:38:25 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+Mysql connect error [localhost, 127.0.0.1]: No such file or directory (400)
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:50
+#0: Bitrix\Main\DB\MysqlConnection->connectInternal()
+	/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:103
+#1: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#2: Bitrix\Main\DB\Connection->query(string)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:183
+#3: Bitrix\Main\Config\Option::load(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/config/option.php:53
+#4: Bitrix\Main\Config\Option::get(string, string, string)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:337
+#5: Bitrix\Main\HttpRequest->prepareCookie(array)
+	/var/www/site3/bitrix/modules/main/lib/httprequest.php:63
+#6: Bitrix\Main\HttpRequest->__construct(object, array, array, array, array)
+	/var/www/site3/bitrix/modules/main/lib/httpapplication.php:43
+#7: Bitrix\Main\HttpApplication->initializeContext(array)
+	/var/www/site3/bitrix/modules/main/lib/application.php:122
+#8: Bitrix\Main\Application->initializeExtendedKernel(array)
+	/var/www/site3/bitrix/modules/main/include.php:24
+#9: require_once(string)
+	/var/www/site3/bitrix/modules/main/include/prolog_before.php:14
+#10: require_once(string)
+	/var/www/site3/dnc/index.php:23
+----------
+2018-03-06 09:31:05 - Host: lk.storemate.ru - FATAL - [ErrorException] E_ERROR
+Maximum execution time of 30 seconds exceeded (0)
+/var/www/site3/bitrix/modules/main/classes/general/database.php:486
+----------
+2018-08-16 21:03:40 - Host: shopmate.yadadya.net - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\SqlQueryException] 
+Mysql query error: Duplicate entry '1_134642_1_2018-08-16' for key 'IXS_ACCOUNT_NUMBER' (400)
+INSERT INTO b_sale_order(`LID`, `PERSON_TYPE_ID`, `PAYED`, `DATE_PAYED`, `CANCELED`, `DATE_CANCELED`, `DATE_STATUS`, `ALLOW_DELIVERY`, `DEDUCTED`, `MARKED`, `RESERVED`, `PRICE`, `CURRENCY`, `DISCOUNT_VALUE`, `USER_ID`, `PAY_SYSTEM_ID`, `DATE_INSERT`, `DATE_UPDATE`, `SUM_PAID`, `STORE_ID`, `ACCOUNT_NUMBER`) VALUES ('s1', '1', 'Y', '2018-08-16 21:02:30', 'N', '2018-08-16 21:03:40', '2018-08-16 21:03:40', 'N', 'Y', 'N', 'N', '2523.76', 'RUB', '0', '1', '4', '2018-08-16 21:02:30', '2018-08-16 21:02:30', '2523.76', '6', '1_134642_1_2018-08-16')
+/var/www/site3/bitrix/modules/main/lib/db/mysqlconnection.php:116
+#0: Bitrix\Main\DB\MysqlConnection->queryInternal(string, array, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:329
+#1: Bitrix\Main\DB\Connection->query(string, NULL)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:378
+#2: Bitrix\Main\DB\Connection->queryExecute(string)
+	/var/www/site3/bitrix/modules/main/lib/db/connection.php:453
+#3: Bitrix\Main\DB\Connection->add(string, array, string)
+	/var/www/site3/bitrix/modules/main/lib/entity/datamanager.php:558
+#4: Bitrix\Main\Entity\DataManager::add(array)
+	/var/www/site3/local/modules/yadadya.shopmate/lib/cash.php:88
+#5: Yadadya\Shopmate\Cash::DoSaveOrder(array)
+	/var/www/site3/dnc/index.php:108
+#6: readReport(string, string)
+	/var/www/site3/dnc/index.php:163
+----------
