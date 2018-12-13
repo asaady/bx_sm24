@@ -5,7 +5,7 @@ $DBHost = "localhost";
 $DBLogin = "root";
 $DBPassword = "3@141592";
 $DBName = "bitrix_83";
-$DBDebug = false;
+$DBDebug = true;
 $DBDebugToFile = false;
 
 define("DELAY_DB_CONNECT", true);

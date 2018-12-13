@@ -1,18 +1,164 @@
-2018-Dec-01 09:26:46 Наличие необходимых модулей php (check_php_modules): Ok
+2018-Dec-13 16:32:25 Наличие необходимых модулей php (check_php_modules): Ok
 Все необходимые модули установлены
-2018-Dec-01 09:26:46 Обязательные параметры PHP (check_php_settings): Ok
+2018-Dec-13 16:32:25 Обязательные параметры PHP (check_php_settings): Ok
 Настройки правильные
-2018-Dec-01 09:26:46 Модули веб-сервера (check_security): Warning
+2018-Dec-13 16:32:25 Модули веб-сервера (check_security): Warning
 Замечание. Загружен модуль mod_dav/mod_dav_fs, WebDav не будет работать
-2018-Dec-01 09:26:46 Значения переменных сервера (check_server_vars): Ok
+2018-Dec-13 16:32:26 Значения переменных сервера (check_server_vars): Ok
 Корректные
-2018-Dec-01 09:26:46 Сохранение сессии (check_session): Ok
+2018-Dec-13 16:32:26 Сохранение сессии (check_session): Ok
 50% done
-2018-Dec-01 09:26:46 Параметры настройки UTF (mbstring и константа BX_UTF) (check_mbstring): Ok
+2018-Dec-13 16:32:27 Сохранение сессии (check_session): Ok
+Успешно
+2018-Dec-13 16:32:28 Параметры настройки UTF (mbstring и константа BX_UTF) (check_mbstring): Ok
 Правильные. Сайт работает в UTF кодировке
-2018-Dec-01 09:26:46 Служебные скрипты в корне сайта (check_install_scripts): Ok
+2018-Dec-13 16:32:28 Служебные скрипты в корне сайта (check_install_scripts): Ok
 Отсутствуют
-2018-Dec-01 09:26:46 Работа с сокетами (check_socket): Ok
+2018-Dec-13 16:32:28 Работа с сокетами (check_socket): Ok
 Connection to 10.33.40.22:80	Success
 
 Успешно
+2018-Dec-13 16:32:28 Параметры подключения к базе данных (check_dbconn_settings): Ok
+Успешно
+2018-Dec-13 16:32:29 Лишний вывод в файлах конфигурации (check_dbconn): Ok
+Connection to 10.33.40.22:80	Success
+
+Успешно
+2018-Dec-13 16:32:29 Выполнение агентов на cron (check_bx_crontab): Warning
+Замечание. Агенты выполняются на хитах, рекомендуется перевести выполнение агентов на cron
+2018-Dec-13 16:32:29 Сохранение сессии без UserAgent (check_session_ua): Ok
+50% done
+Connection to 10.33.40.22:80	Success
+
+2018-Dec-13 16:32:29 Сохранение сессии без UserAgent (check_session_ua): Ok
+Connection to 10.33.40.22:80	Success
+
+Успешно
+2018-Dec-13 16:32:29 Настройки сайтов (check_sites): Ok
+Правильные
+2018-Dec-13 16:32:29 Передача объектов по ссылке (check_clone): Ok
+Успешно
+2018-Dec-13 16:32:29 Размер стека и pcre.recursion_limit (check_pcre_recursion): Ok
+Connection to 10.33.40.22:80	Success
+
+Успешно
+2018-Dec-13 16:32:29 Вызов method_exists на строке (check_method_exists): Ok
+Connection to 10.33.40.22:80	Success
+
+Успешно
+2018-Dec-13 16:32:29 Загрузка файла (check_upload): Ok
+Connection to 10.33.40.22:80	Success
+
+Успешно
+2018-Dec-13 16:32:30 Загрузка файла больше 4Мб (check_upload_big): Ok
+Connection to 10.33.40.22:80	Success
+
+Успешно
+2018-Dec-13 16:32:30 Загрузка файла через php://input (check_upload_raw): Ok
+Connection to 10.33.40.22:80	Success
+
+Успешно
+2018-Dec-13 16:32:30 Передача POST запроса с большим числом параметров (check_post): Ok
+Connection to 10.33.40.22:80	Success
+
+Успешно
+2018-Dec-13 16:32:30 Отправка почты (check_mail): Ok
+Успешно
+2018-Dec-13 16:32:30 Отправка почтового сообщения больше 64Кб (check_mail_big): Ok
+Успешно
+2018-Dec-13 16:32:30 Проверка на наличие неотправленных сообщений (check_mail_b_event): Ok
+Успешно
+2018-Dec-13 16:32:30 Внутреннее перенаправление (функция LocalRedirect) (check_localredirect): Ok
+50% done
+Connection to 10.33.40.22:80	Success
+
+2018-Dec-13 16:32:30 Внутреннее перенаправление (функция LocalRedirect) (check_localredirect): Ok
+Connection to 10.33.40.22:80	Success
+
+Успешно
+2018-Dec-13 16:32:30 Фактическое ограничение памяти (check_memory_limit): Ok
+20% done
+Connection to 10.33.40.22:80	Success
+
+2018-Dec-13 16:32:30 Фактическое ограничение памяти (check_memory_limit): Ok
+40% done
+Connection to 10.33.40.22:80	Success
+
+2018-Dec-13 16:32:31 Фактическое ограничение памяти (check_memory_limit): Ok
+60% done
+Connection to 10.33.40.22:80	Success
+
+2018-Dec-13 16:32:31 Фактическое ограничение памяти (check_memory_limit): Ok
+80% done
+Connection to 10.33.40.22:80	Success
+
+2018-Dec-13 16:32:31 Фактическое ограничение памяти (check_memory_limit): Ok
+Connection to 10.33.40.22:80	Success
+
+Не менее 256 М
+2018-Dec-13 16:32:31 Работа с файлами кеша (check_cache): Ok
+Успешно
+2018-Dec-13 16:32:31 Доступ к серверу обновлений (check_update): Ok
+Успешно
+2018-Dec-13 16:32:31 HTTP авторизация (check_http_auth): Ok
+Connection to 10.33.40.22:80	Success
+
+Успешно
+2018-Dec-13 16:32:32 Создание и запуск файла (check_exec): Ok
+Connection to 10.33.40.22:80	Success
+
+Успешно
+2018-Dec-13 16:32:32 Функция getimagesize для swf (check_getimagesize): Ok
+Успешно
+2018-Dec-13 16:32:32 Версия MySQL-сервера (check_mysql_bug_version): Ok
+Успешно
+2018-Dec-13 16:32:33 Время на БД и веб-сервере (check_mysql_time): Ok
+Успешно
+2018-Dec-13 16:32:33 Режим работы MySQL (check_mysql_mode): Ok
+Успешно
+2018-Dec-13 16:32:33 Кодировка соединения (check_mysql_connection_charset): Ok
+character_set_connection=utf8, collation_connection=utf8_unicode_ci, character_set_results=utf8
+Успешно
+2018-Dec-13 16:32:33 Кодировка базы данных (check_mysql_db_charset): Ok
+CHARSET=utf8, COLLATION=utf8_unicode_ci
+Успешно
+2018-Dec-13 16:32:33 Кодировки таблиц в БД (check_mysql_table_charset): Ok
+Успешно
+2018-Dec-13 16:32:40 Структура базы данных (check_mysql_table_structure): Ok
+0% done
+В таблице b_site_template поле TEMPLATE "varchar(50) NOT NULL " не соответствует описанию на диске "varchar(255) NOT NULL "
+
+2018-Dec-13 16:32:41 Структура базы данных (check_mysql_table_structure): Ok
+3% done
+2018-Dec-13 16:32:41 Структура базы данных (check_mysql_table_structure): Ok
+6% done
+2018-Dec-13 16:32:41 Структура базы данных (check_mysql_table_structure): Ok
+9% done
+2018-Dec-13 16:32:42 Структура базы данных (check_mysql_table_structure): Ok
+12% done
+2018-Dec-13 16:32:42 Структура базы данных (check_mysql_table_structure): Ok
+15% done
+2018-Dec-13 16:32:42 Структура базы данных (check_mysql_table_structure): Ok
+18% done
+2018-Dec-13 16:32:44 Структура базы данных (check_mysql_table_structure): Ok
+21% done
+2018-Dec-13 16:32:45 Структура базы данных (check_mysql_table_structure): Ok
+24% done
+2018-Dec-13 16:32:45 Структура базы данных (check_mysql_table_structure): Ok
+27% done
+2018-Dec-13 16:32:45 Структура базы данных (check_mysql_table_structure): Ok
+30% done
+2018-Dec-13 16:32:45 Структура базы данных (check_mysql_table_structure): Ok
+33% done
+2018-Dec-13 16:32:45 Структура базы данных (check_mysql_table_structure): Ok
+36% done
+2018-Dec-13 16:32:47 Структура базы данных (check_mysql_table_structure): Ok
+39% done
+В таблице b_forum_private_message поле REQUEST_IS_READ "char(1) NOT NULL " не соответствует описанию на диске "char(1) NULL DEFAULT NULL  "
+
+2018-Dec-13 16:32:47 Структура базы данных (check_mysql_table_structure): Ok
+42% done
+2018-Dec-13 16:32:47 Структура базы данных (check_mysql_table_structure): Ok
+45% done
+2018-Dec-13 16:32:48 Структура базы данных (check_mysql_table_structure): Ok
+48% done

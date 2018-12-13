@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001544707941';
+$dateexpire = '001544711541';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:6:{s:11:"code_editor";a:2:{s:5:"theme";s:4:"dark";s:9:"highlight";s:1:"1";}s:18:"file_dialog_config";s:74:"s1;/local/components/shopmate/cash.detail/templates/.default;list;type;asc";s:11:"last_pathes";s:359:"a:10:{i:0;s:12:"/contractors";i:1;s:4:"/dnc";i:2;s:47:"/local/modules/yadadya.shopmate/classes/general";i:3;s:39:"/local/modules/yadadya.shopmate/classes";i:4;s:31:"/local/modules/yadadya.shopmate";i:5;s:14:"/local/modules";i:6;s:6:"/local";i:7;s:38:"/local/components/shopmate/cash.detail";i:8;s:26:"/local/components/shopmate";i:9;s:17:"/local/components";}";s:28:"taskbar_settings_filesrc_pub";s:246:"a:3:{s:19:"BXPropertiesTaskbar";a:3:{s:4:"show";b:1;s:3:"set";i:3;s:6:"active";b:1;}s:20:"BXComponents2Taskbar";a:3:{s:4:"show";b:1;s:3:"set";s:1:"2";s:6:"active";b:1;}s:17:"BXSnippetsTaskbar";a:3:{s:4:"show";b:1;s:3:"set";i:3;s:6:"active";b:0;}}";s:31:"taskbarset_settings_filesrc_pub";s:90:"a:2:{i:2;a:2:{s:4:"show";b:1;s:4:"size";i:200;}i:3;a:2:{s:4:"show";b:1;s:4:"size";i:120;}}";s:26:"type_selector_DETAIL_TEXT2";s:6:"editor";}}';
+return true;
+?>
